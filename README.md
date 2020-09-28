@@ -22,9 +22,18 @@ To run the backend server start the `run.py` file by writing `python3 run.py`. I
 
 In order to use this tool, navigate to the localhost:8080. Here you can generate recommendations on anything you want to interact with: Movies or Games.
 
+![](https://raw.githubusercontent.com/Si-ja/Recommend-Me-Something/master/visuals/Recommendation.png "Recommend Me Something_1")
+![](https://raw.githubusercontent.com/Si-ja/Recommend-Me-Something/master/visuals/Recommendation2.png "Recommend Me Something_2")
+
 Navigate to Entries section in order to modify existing entries or add new ones. 
 
+![](https://raw.githubusercontent.com/Si-ja/Recommend-Me-Something/master/visuals/Update1.png "Update_1")
+![](https://raw.githubusercontent.com/Si-ja/Recommend-Me-Something/master/visuals/Update2.png "Update_2")
+
 Navigate to the Database section in order to see all the entries present in particular tables and delete ones you do not want to keep anymore.
+
+![](https://raw.githubusercontent.com/Si-ja/Recommend-Me-Something/master/visuals/Database.png "Database_1")
+![](https://raw.githubusercontent.com/Si-ja/Recommend-Me-Something/master/visuals/Database2.png "Database_2")
 
 Navigate to the About section to read About the tool. Essentially a concise README.md file.
 
@@ -36,10 +45,10 @@ Also, a bunch of node_modules are not included in the .git files, as they take a
 
 ## TODO:
 
-[] Dockerize everything so that it would be easier to run the whole system with two processes (services) at once.
+[ ] Dockerize everything so that it would be easier to run the whole system with two processes (services) at once.
 
-[] Organize the code a bit more and work out few bugs that are still left in the `Units.vue` file. Particularly, that the databases updates with modifications, but the error still prints warnings into a console.
+[ ] Organize the code a bit more and work out few bugs that are still left in the `Units.vue` file. Particularly, that the databases updates with modifications, but the error still prints warnings into a console.
 
-[] Add more entries to the table including more tables.
+[ ] Add more entries to the table including more tables.
 
-[] Add an ability to add more tables from the user's point of view and not just from the backend. 
+[ ] Add an ability to add more tables from the user's point of view and not just from the backend. 
