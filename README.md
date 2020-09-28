@@ -45,10 +45,10 @@ Also, a bunch of node_modules are not included in the .git files, as they take a
 
 ## TODO:
 
-[ ] Dockerize everything so that it would be easier to run the whole system with two processes (services) at once.
+- [ ] Dockerize everything so that it would be easier to run the whole system with two processes (services) at once.
 
-[ ] Organize the code a bit more and work out few bugs that are still left in the `Units.vue` file. Particularly, that the databases updates with modifications, but the error still prints warnings into a console.
+- [ ] Organize the code a bit more and work out few bugs that are still left in the `Units.vue` file. Particularly, that the databases updates with modifications, but the error still prints warnings into a console.
 
-[ ] Add more entries to the table including more tables.
+- [ ] Add more entries to the table including more tables.
 
-[ ] Add an ability to add more tables from the user's point of view and not just from the backend. 
+- [ ] Add an ability to add more tables from the user's point of view and not just from the backend. 
