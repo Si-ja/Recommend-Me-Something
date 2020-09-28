@@ -1,0 +1,34 @@
+[
+    {
+        "database": "Games",
+        "name": "Hollow Knight",
+        "description": "An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.",
+        "year": 2017,
+        "img": "https://steamcdn-a.akamaihd.net/steam/apps/367520/header.jpg?t=1589274477",
+        "consumed": 0
+    },
+    {
+        "database": "Games",
+        "name": "Dead Cells",
+        "description": "Dead Cells is a rogue-lite, metroidvania inspired, action-platformer. You'll explore a sprawling, ever-changing castle... assuming you’re able to fight your way past its keepers in 2D souls-lite combat. No checkpoints. Kill, die, learn, repeat.",
+        "year": 2018,
+        "img": "https://steamcdn-a.akamaihd.net/steam/apps/588650/header.jpg?t=1597915582",
+        "consumed": 0
+    },
+        {
+        "database": "Movies",
+        "name": "Monty Python and the Holy Grail",
+        "description": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+        "year": 1975,
+        "img": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "consumed": 0
+    },
+        {
+        "database": "Movies",
+        "name": "Spider-Man: Into the Spider-Verse",
+        "description": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+        "year": 2018,
+        "img": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "consumed": 0
+    }
+]
