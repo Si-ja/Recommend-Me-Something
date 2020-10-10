@@ -17,6 +17,11 @@ app = Flask(__name__,
 cors = CORS(app, 
             resources={r'/api/*': {'originis': '*'}})
 
+# To know if the server is up
+@app.route("/")
+def serverRunning():
+    return "Backend Server is Running!"
+
 @app.route('/api/<table>/random')
 def randomRecommendation(table):
     """
