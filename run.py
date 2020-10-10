@@ -6,7 +6,7 @@ from random import randint
 from backend.database.database_check import DBchcek
 from backend.database.database_requests import DBrequests
 
-DEBUG=True
+DEBUG=False
 # Only work with tables that we are sure are in our database
 TABLES=[table.upper() for table in DBchcek.findTableNames()]     
 
